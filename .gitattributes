@@ -1,0 +1,2 @@
+checkpoints/GFz-L_L30.pt filter=lfs diff=lfs merge=lfs -text
+checkpoints/GFz-L_L40.pt filter=lfs diff=lfs merge=lfs -text
